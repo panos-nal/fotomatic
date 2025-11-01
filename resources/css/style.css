@@ -56,6 +56,7 @@ header .logo {
 
 header nav ul {
   display: flex;
+  list-style: none;
 }
 
 nav li {
